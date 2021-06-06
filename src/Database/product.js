@@ -1,0 +1,42 @@
+export const product = [
+  {
+    id: 1,
+    name: 'Printed Men Round Neck Beige T-Shirt',
+    price: 400,
+    brand: 'Puma',
+    size: ['S', 'M', 'XL'],
+    link: 'https://rukminim1.flixcart.com/image/880/1056/kfikya80-0/t-shirt/t/3/1/m-pc17059cl-proline-original-imafvyawzxzh6jqq.jpeg?q=50',
+  },
+  {
+    id: 2,
+    name: 'Solid Men Polo Neck Yellow T-Shirt',
+    price: 300,
+    brand: 'Puma',
+    size: ['S', 'M'],
+    link: 'https://rukminim1.flixcart.com/image/880/1056/ke353m80-0/t-shirt/e/2/h/m-cv-ts84-vero-lie-original-imafuun2mxszmbyx.jpeg?q=50',
+  },
+  {
+    id: 3,
+    name: 'Color Block Men Round Neck Black T-Shirt',
+    price: 600,
+    brand: 'Reebok',
+    size: ['S', 'L'],
+    link: 'https://rukminim1.flixcart.com/image/319/383/khmbafk0-0/t-shirt/w/j/s/xs-t322-blwh-seven-rocks-original-imafxhagtyj2xvpn.jpeg?q=50',
+  },
+  {
+    id: 4,
+    name: 'Solid Men Turtle Neck Blue T-Shirt',
+    price: 400,
+    size: ['S', 'M', 'L'],
+    brand: 'Reebok',
+    link: 'https://rukminim1.flixcart.com/image/319/383/klzhq4w0/t-shirt/m/t/d/xxl-spk4-pink-spark-the-melange-collection-original-imagyzwqavnwghsv.jpeg?q=50',
+  },
+  {
+    id: 5,
+    name: 'Solid Men Turtle Neck Blue T-Shirt',
+    price: 100,
+    size: ['M', 'L', 'XL'],
+    brand: 'Puma',
+    link: 'https://rukminim1.flixcart.com/image/880/1056/kcc9q4w0/t-shirt/4/d/r/s-mandplctee-black-urbano-fashion-original-imafthckzefgfgpm.jpeg?q=50',
+  },
+];
